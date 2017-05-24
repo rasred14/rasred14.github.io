@@ -40,5 +40,7 @@ https://stark-lake-93710.herokuapp.com/
 
 Τελικό στάδιο της εργασίας αποτέλεσε η δημιουργία σελίδας GitHub-Pages, στην οποία χρησιμοποιήθηκε το θέμα Midnight -περισσότερες πληροφορίες για το θέμα μπορούμε να βρούμε εδώ (https://github.com/pages-themes/midnight). Στην σελίδα μου στο GitHub ανέβηκε και η τελική αναφορά της εργασίας.
 
+## ΕΝΔΕΙΚΤΙΚΕΣ ΟΘΟΝΕΣ
 
+Αρχική Εφαρμογή: https://github.com/rasred14/rasred14.github.io/blob/master/globe%20v.01.png
 
