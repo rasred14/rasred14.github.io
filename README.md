@@ -6,7 +6,7 @@
 
 Η εργασία έγινε στα πλαίσια του μαθήματος "Κοινωνικά και Νοητά Μέσα" του Δ' εξαμήνου με επιβλέπων καθηγητή τον κύριο Κωνσταντίνο Χωριανόπουλο.
 
-Η εφαρμογή, στην οποία πραγματοποίησαμε τις αλλαγές που μας υπόδειξε ο κύριος Χωριανόπουλος βρισκόταν στην πλατφόρμα GitHub και συγκεκριμένα στο παρακάτω αποθετήριο: https://github.com/twitterdev/twitter-stream-globe
+Η εφαρμογή, στην οποία πραγματοποίησαμε τις αλλαγές που μας υπόδειξε ο κύριος Χωριανόπουλος βρισκόταν στην πλατφόρμα GitHub και συγκεκριμένα στο παρακάτω [αποθετήριο](https://github.com/twitterdev/twitter-stream-globe)
 
 Και μπορούμε να δούμε στο παρακάτω link το πως λειτουργεί: https://stark-lake-93710.herokuapp.com/
 
@@ -41,13 +41,13 @@
 ## ΕΝΔΕΙΚΤΙΚΕΣ ΟΘΟΝΕΣ:
 
 Αρχική Εφαρμογή: 
-https://github.com/rasred14/rasred14.github.io/blob/master/globe%20v.01.png?raw=true
+![screenshot](https://github.com/rasred14/rasred14.github.io/blob/master/globe%20v.01.png?raw=true)
 
 Η εφαρμογή μετά το παραδοτέο 2:
-https://github.com/rasred14/rasred14.github.io/blob/master/globe%20v.02.png?raw=true
+![screenshot](https://github.com/rasred14/rasred14.github.io/blob/master/globe%20v.02.png?raw=true)
 
 Η τελική εφαρμογή:
-https://github.com/rasred14/rasred14.github.io/blob/master/globe%20v.04.png?raw=true
+![screenshot](https://github.com/rasred14/rasred14.github.io/blob/master/globe%20v.04.png?raw=true)
 
 ## ΣΥΜΠΕΡΑΣΜΑΤΑ:
 
