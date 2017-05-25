@@ -16,15 +16,15 @@ https://stark-lake-93710.herokuapp.com/
 
 Τα εργαλεία τα οποία κρίθηκαν άκρως απαραίτητα για την διεκπαιρέωση της εν λόγω εργασίας ήταν τα εξής:
 
-1) Twitter app -> https://apps.twitter.com/
+1) Twitter app -> [https://apps.twitter.com/]
 
-2) Heroku -> https://dashboard.heroku.com/apps
+2) Heroku -> [https://dashboard.heroku.com/apps]
 
-3) PubNub -> https://www.pubnub.com/
+3) PubNub -> [https://www.pubnub.com/]
 
-4) iTouchMap -> https://itouchmap.com/latlong.html
+4) iTouchMap -> [https://itouchmap.com/latlong.html]
 
-5) GitHub -> https://github.com/
+5) GitHub -> [https://github.com/]
 
 Πέρα από αυτά, αξίζει να σημειωθέι ότι η μηχανή αναζήτησης της Google ήταν και θα είναι πάντα αναπόσπαστο κομμάτι για την ολοκλήρωση εργασιών.
 
